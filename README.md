@@ -44,3 +44,9 @@ The Streamlit application accepts the ten input features and predicts the diabet
 
 ## Disclaimer
 This project is intended for educational and research purposes only and is not a medical diagnostic tool.
+
+## 🚀 Live Demo
+
+Try the deployed Streamlit application:
+
+[**Launch Diabetes Progression Predictor App**](https://diabetes-progression-predictor-bcrfhab5gbgtsr4mxvjjrd.streamlit.app/)
